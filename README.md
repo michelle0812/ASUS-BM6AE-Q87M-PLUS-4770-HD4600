@@ -13,10 +13,10 @@
     <td>iGPU</td><td>Intel HD Graphics 4600</td>
   </tr>
   <tr>  
-    <td>固態硬碟</td><td>Cruical M550 128GB</td>
+    <td>固態硬碟</td><td>Cruical MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
+    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.7</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202959989-cc162c06-bb07-4952-889d-c1af49746eed.jpg"><br>
